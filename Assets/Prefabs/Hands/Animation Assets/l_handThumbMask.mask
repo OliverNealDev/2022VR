@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: l_handThumbMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: handBase1
+    m_Weight: 0
+  - m_Path: handBase1/handTip1
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/ind2
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/ind2/mid4
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/ind2/mid4/mid5
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/ind2/mid4/mid5/midTip1
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/mid6
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/mid6/mid7
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/mid6/mid7/mid8
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/mid6/mid7/mid8/midTip2
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/pnk4
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/pnk4/pnk5
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/pnk4/pnk5/pnk6
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/pnk4/pnk5/pnk6/pnkTip1
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/ring4
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/ring4/ring5
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/ring4/ring5/ring6
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/ring4/ring5/ring6/ringTip1
+    m_Weight: 0
+  - m_Path: handBase1/handTip1/thb4
+    m_Weight: 1
+  - m_Path: handBase1/handTip1/thb4/thb5
+    m_Weight: 1
+  - m_Path: handBase1/handTip1/thb4/thb5/thb6
+    m_Weight: 1
+  - m_Path: handBase1/handTip1/thb4/thb5/thb6/thbTip1
+    m_Weight: 1
+  - m_Path: lHand
+    m_Weight: 0
